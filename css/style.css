@@ -268,7 +268,11 @@ button {
 .banner_section {
     width: 100%;
     float: left;
+<<<<<<< HEAD
     background-image: url(../images/image2.jpg);
+=======
+    background-image: url(../images/images.png);
+>>>>>>> 7e8500e487fab1ece0d02584e99a2ff06029ee68
     height: auto;
     background-size: 100%;
     padding: 10px 0px 25px 0px;
