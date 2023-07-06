@@ -278,9 +278,7 @@ margin: 0px 30px 0px 0px;
     width: 100%;
     float: left;
     background-image: url(../images/image2.jpg);
-=======
-    background-image: url(../images/images.png);
->>>>>>> 7e8500e487fab1ece0d02584e99a2ff06029ee68
+    
     height: auto;
     background-size: 100%;
     padding: 10px 0px 25px 0px;
@@ -553,7 +551,7 @@ a:hover {
 .services_section {
     width: 100%;
     float: left;
-    background-image: url(../images/services-bg.png);
+    background-image: url(../images/images.png);
     height: auto;
     padding-bottom: 100px;
     background-attachment: fixed;
