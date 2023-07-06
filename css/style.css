@@ -259,7 +259,9 @@ button {
     color: #fff;
 }
 
-.logo {}
+.logo {
+    display: block;
+}
 
 /* header section end */
 
