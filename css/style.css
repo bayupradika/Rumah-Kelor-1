@@ -812,9 +812,9 @@ a:hover {
 .mail_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-9.png);
+    background-color: #05751b;
     height: auto;
-    padding: 23px 70px;
+    margin-bottom: 70px;
     background-repeat: no-repeat;
     background-size: cover;
 }
