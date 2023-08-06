@@ -222,7 +222,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #252525;
+    background-color: #0c3014;
     height: auto;
     background-size: 100%;
     position: fixed;
@@ -809,9 +809,7 @@ a:hover {
 }
 
 .contact_section_2 {
-    width: 100%;
-    float: left;
-    
+    width: 100%;    
 }
 
 .mail_section {
@@ -895,6 +893,8 @@ a:hover {
     padding: 0px;
 }
 
+
+
 /* contact section end */
 
 /* footer section start */
@@ -904,9 +904,13 @@ color: #05751b;
 }
 
 footer {
-    background-color: #000000;
+    background-color: #0c3014;
     color: #ffffff;
     padding: 30px 0;
+    background: #00762a;
+background: linear-gradient(216deg,#00762a 0%, #0d0000 80%);
+background: -webkit-linear-gradient(216deg,#00762a 0%, #0d0000 80%);
+background: -moz-linear-gradient(216deg,#00762a 0%, #0d0000 80%);
   }
   footer a {
     color: #ffffff;
