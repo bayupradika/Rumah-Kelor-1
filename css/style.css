@@ -151,7 +151,7 @@ a,
     transition: all .3s ease-in-out;
 }
 
-img {
+.fotoo {
     max-width: 100%;
     height: auto;
     border-radius: 20px;
@@ -364,7 +364,6 @@ margin: 0px 30px 0px 0px;
     color: #333333;
     margin: 0 auto;
     z-index: 1;
-    margin: 0 auto;
     text-align: center;
 }
 
@@ -390,7 +389,7 @@ margin: 0px 30px 0px 0px;
 .about_taital_main {
     width: 100%;
     float: left;
-    padding: 120px 0px;
+    /* padding: 120px 0px; */
 }
 
 .about_taital {
@@ -912,97 +911,16 @@ background: linear-gradient(216deg,#00762a 0%, #0d0000 80%);
 background: -webkit-linear-gradient(216deg,#00762a 0%, #0d0000 80%);
 background: -moz-linear-gradient(216deg,#00762a 0%, #0d0000 80%);
   }
+
+
   footer a {
     color: #ffffff;
   }
   footer a:hover {
     color: #f8f9fa;
   }
-/* .footer_section {
-    width: 100%;
-    float: left;
-    background-color: #252525;
-    height: auto;
-    padding: 95px 0px;
-}
 
-.useful_text {
-    width: 100%;
-    font-size: 24px;
-    color: #ffffff;
-    margin-bottom: 15px;
-    font-weight: bold;
-}
-
-.footer_text {
-    width: 100%;
-    float: left;
-    font-size: 14px;
-    color: #ffffff;
-    margin: 0px;
-}
-
-.footer_menu {
-    width: 100%;
-    float: left;
-}
-
-.footer_menu ul {
-    margin: 0px;
-    padding: 0px;
-}
-
-.footer_menu li {
-    font-size: 14px;
-    color: #ffffff;
-}
-
-.footer_menu li a {
-    color: #ffffff;
-}
-
-.footer_menu li a:hover {
-    color: #099d24;
-}
-
-.dummy_text {
-    width: 30%;
-    float: left;
-    font-size: 14px;
-    color: #ffffff;
-    margin: 0px;
-}
-
-.location_text {
-    width: 100%;
-    float: left;
-}
-
-.location_text ul {
-    margin: 0px;
-    padding: 0px;
-}
-
-.location_text li {
-    font-size: 14px;
-    color: #ffffff;
-    padding: 0px 0px 5px 0px;
-}
-
-.location_text li a {
-    color: #ffffff;
-}
-
-.location_text li a:hover {
-    color: #099d24;
-}
-
-.padding_left_10 {
-    padding-left: 10px;
-} */
-
-
-/* footer section end */
+   /*Footer */
 
 /* copyright section start */
 
@@ -1032,6 +950,7 @@ background: -moz-linear-gradient(216deg,#00762a 0%, #0d0000 80%);
 
 
 /* copyright section end */
+
 
 .margin_top90 {
     margin-top: 90px;
